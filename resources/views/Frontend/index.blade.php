@@ -21,7 +21,7 @@
                         </p>
                         <div class="col-xl-3 col-lg-2 col-md-3 col-6 mb-3"
                             style="font-size: inline-block;margin: auto;display: grid;">
-                            <a href="About-Us.html"
+                            <a href="{{Route('About-Us')}}"
                                 class="anim_fill_btn btn btn_fill_rounded primary_bg rounded-0">
                                 See More 
                                 <!-- <i class="bx bx-right-arrow-alt"></i> -->
@@ -165,11 +165,11 @@
                                             alt="Software Development">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Software Development">
-                                        <a href="https://gilsoftware.com/">Software Development</a>
+                                        <a href="#">Software Development</a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="Fiber-Optic-Backbone.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 secondary_bg mt-2">
                                         VIEW DETAILS
                                     </a>
@@ -186,11 +186,11 @@
                                             alt="Structure Local Area Network (LAN)">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Structure Local Area Network (LAN)">
-                                        <a href="Solutions/Structure-Local-Area-Network.html">Structure Local Area Network (LAN)</a>
+                                        <a href="#">Structure Local Area Network (LAN)</a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="Solutions/Structure-Local-Area-Network.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 secondary_bg mt-2">
                                         VIEW DETAILS
                                     </a>
@@ -229,7 +229,7 @@
                                             alt="Interactive Display">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Interactive Display">
-                                        <a href="maxhub.html">Interactive Display </a>
+                                        <a href="#">Interactive Display </a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
@@ -250,7 +250,7 @@
                                             alt="Fiber Optic Backbone">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Fiber Optic Backbone">
-                                        <a href="Fiber-Optic-Backbone.html">Fiber Optic Backbone</a>
+                                        <a href="#">Fiber Optic Backbone</a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
@@ -271,11 +271,11 @@
                                             alt="Smart Wireless">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Smart Wireless">
-                                        <a href="Smart-wireless.html">Smart Wireless</a>
+                                        <a href="#">Smart Wireless</a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="Smart-wireless.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 mt-2">
                                         VIEW DETAILS
                                     </a>
@@ -292,11 +292,11 @@
                                             alt="Smart IP PABX">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Smart IP PABX">
-                                        <a href="Smart-ip-pabx.html">Smart IP PABX</a>
+                                        <a href="#">Smart IP PABX</a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="Smart-ip-pabx.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 secondary_bg mt-2">
                                         VIEW DETAILS
                                     </a>
@@ -334,11 +334,11 @@
                                             alt="Automated Smart Classroom / Lab">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Automated Smart Classroom / Lab">
-                                        <a href="Automated-Smart-Classroom-Lab.html">Automated Smart Classroom / Lab</a>
+                                        <a href="#">Automated Smart Classroom / Lab</a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="Automated-Smart-Classroom-Lab.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 secondary_bg mt-2">
                                         VIEW DETAILS
                                     </a>
@@ -355,11 +355,11 @@
                                             alt="Enterprise Server & Storage">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Enterprise Server & Storage">
-                                        <a href="enterprise-server-and-storage.html">Enterprise Server & Storage </a>
+                                        <a href="#">Enterprise Server & Storage </a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="enterprise-server-and-storage.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 secondary_bg mt-2">
                                         VIEW DETAILS
                                     </a>
@@ -377,12 +377,12 @@
                                             alt="Smart Public Addressing (PA) System">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Smart Public Addressing (PA) System">
-                                        <a href="Smart-Public-Addressing-System-Solution.html">Smart Public Addressing (PA) System
+                                        <a href="#">Smart Public Addressing (PA) System
                                         </a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="Smart-Public-Addressing-System-Solution.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 secondary_bg mt-2">VIEW
                                         DETAILS
                                     </a>
@@ -400,13 +400,13 @@
                                             alt="Smart Access control and Attendance System">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title=" Smart Access Control And Attendance System">
-                                        <a href="Access-control-and-attendance-system.html">
+                                        <a href="#">
                                             Smart Access Control And Attendance System
                                         </a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="Access-control-and-attendance-system.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 secondary_bg mt-2">
                                         VIEW DETAILS
                                     </a>
@@ -423,13 +423,13 @@
                                             alt="Enterprise Switching and Routing">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Enterprise Switching and Routing">
-                                        <a href="enterprise-switching-and-routing.html">
+                                        <a href="#">
                                             Enterprise Switching and Routing
                                         </a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="enterprise-switching-and-routing.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 secondary_bg mt-2">
                                         VIEW DETAILS
                                     </a>
@@ -446,11 +446,11 @@
                                             alt="Building Management System (BMS)">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="Building Management System (BMS)">
-                                        <a href="BMS.html">Building Management System (BMS)</a>
+                                        <a href="#">Building Management System (BMS)</a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="BMS.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 secondary_bg mt-2">
                                         VIEW DETAILS
                                     </a>
@@ -467,13 +467,13 @@
                                             alt="ICT Consultancy and Project Management">
                                     </div>
                                     <h2 class="text-center my-3 mb-0" title="ICT Consultancy and Project Management">
-                                        <a href="ICT-Consultancy-And-Project-Management.html">
+                                        <a href="#">
                                             ICT Consultancy and Project Management
                                         </a>
                                     </h2>
                                 </div>
                                 <div class="card-body p-0 text-center p_item">
-                                    <a href="ICT-Consultancy-And-Project-Management.html"
+                                    <a href="#"
                                         class="anim_fill_btn btn btn_fill_rounded rounded-0 secondary_bg mt-2">
                                         VIEW DETAILS
                                     </a>
@@ -504,7 +504,7 @@
                         <div class="col-lg-10">
                             <div class="row justify-content-center">
                                 <div class="col-6 col-lg-4" data-aos="zoom-in-down">
-                                    <a href="maxhub.html" title="Maxhub">
+                                    <a href="#" title="Maxhub">
                                         <div class="brandDiv border rounded d-inline-block p-2"
                                             style="border: 5px solid #eef6f8 !important;">
                                             <img src="{{ url('build/assets/images/partnerlist/Maxhub.png')}}"
